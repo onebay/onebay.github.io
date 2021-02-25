@@ -1,0 +1,1 @@
+import{g as n,f as a,C as s}from"./common-fdfbc665.js";const t='{"title":"Install","frontmatter":{},"relativePath":"index.md","lastUpdated":1614179335215.902}';var p={};const o=s('',4);p.render=function(s,t,p,e,c,l){return a(),n("div",null,[o])};export default p;export{t as __pageData};

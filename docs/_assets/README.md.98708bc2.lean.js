@@ -1,0 +1,1 @@
+import{g as e,f as a,C as s}from"./common-fdfbc665.js";const n='{"title":"docs","frontmatter":{},"headers":[{"level":2,"title":"docs","slug":"docs"},{"level":3,"title":"dev","slug":"dev"}],"relativePath":"README.md","lastUpdated":1606402699602.9585}';var d={};const o=s('',5);d.render=function(s,n,d,t,r,c){return a(),e("div",null,[o])};export default d;export{n as __pageData};
