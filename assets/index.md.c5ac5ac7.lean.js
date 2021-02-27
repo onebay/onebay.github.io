@@ -1,0 +1,1 @@
+import{o as n,c as a,a as s}from"./app.6e347efd.js";const t='{"title":"Install","description":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1614440177317}',p={},o=s('',4);p.render=function(s,t,p,e,c,l){return n(),a("div",null,[o])};export default p;export{t as __pageData};
