@@ -1,0 +1,1 @@
+import{b as e,i as a}from"./index.3a4d1d1e.js";import{d,j as o}from"./vendor.fec48b8d.js";var r=d({name:"BadgePage",components:{Badge:e,Button:a},data:()=>({dot:"..."}),render:()=>o("div",null,o(e,{value:"NEW"},o(a,{size:"small",circle:!0},"按钮")))});export default r;
