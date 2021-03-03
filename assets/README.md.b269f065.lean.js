@@ -1,0 +1,1 @@
+import{o as e,c as a,a as s}from"./app.db19ff4d.js";const n='{"title":"docs","description":"","frontmatter":{},"headers":[{"level":2,"title":"docs","slug":"docs"},{"level":3,"title":"dev","slug":"dev"}],"relativePath":"README.md","lastUpdated":1614787325964}',d={},t=s('',5);d.render=function(s,n,d,o,r,c){return e(),a("div",null,[t])};export default d;export{n as __pageData};
