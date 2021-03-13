@@ -1,0 +1,1 @@
+import{d as e,j as a}from"./vendor.5a70ca8d.js";var t=e({name:"DocsHeader",props:{title:{type:String,default:"标题"}},setup:e=>()=>a("div",{class:"doc-header"},a("div",{class:"doc-header__title"},e.title))});export{t as D};
