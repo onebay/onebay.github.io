@@ -1,0 +1,1 @@
+import{o as e,c as s,a}from"./app.71f0c16d.js";const n='{"title":"docs","description":"","frontmatter":{},"headers":[{"level":2,"title":"docs","slug":"docs"},{"level":3,"title":"dev","slug":"dev"}],"relativePath":"README.md","lastUpdated":1615697954919}',t={},o=a('',5);t.render=function(a,n,t,d,c,l){return e(),s("div",null,[o])};export default t;export{n as __pageData};
